@@ -8,7 +8,7 @@ This Package used to show if there is a correlation between your salary and the 
 
 ```R
 # First install the R packages that used in the project if not installed
-install.packages(c("caTools","ggplot2","devtools"))
+install.packages(c("caTools","ggplot2","grid","devtools"))
 devtools::install_github('RemonRezk/GetYourSalary')
 ```
 
