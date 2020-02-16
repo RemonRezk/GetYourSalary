@@ -55,7 +55,7 @@ GetYourSalary <- function()
     ylab('Salary')
   
   #install.packages('grid')
-  library(grid)
+  require(gridExtra)
   grid.arrange(P1, P2, ncol=2)
 }
 
