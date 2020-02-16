@@ -2,7 +2,7 @@
 
 # GetYourSalary R Package
 
-this project is used to analyse the salaries data & predict what is your salary range based on your years of experience using a Simple Linear Regression.
+This Package used to show if there is a correlation between your salary and the number of years of experience using a simple Linear Regression method and predict your salary based on the your number of years of experience.
 
 ## Installation
 
